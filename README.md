@@ -21,4 +21,4 @@ A detailed description of this dataset and the original dataset can be obtained 
 
 This exercise uses subsampled practice data (fewer rows, smaller size)
 
-File 2 added code for JOIN, VIEW, CREATE PROCEDURE, and use stored procedure. Code was tested on IBM DB2 and outputs are in "Outputs" folder
+File 2 added code for JOIN, VIEW, CREATE PROCEDURE, and use stored procedure. Code was tested in IBM DB2.
